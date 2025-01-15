@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JocDeTable", "JocDeTable\JocDeTable.csproj", "{7A77C171-F849-4FF2-A2CD-668A973094D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A77C171-F849-4FF2-A2CD-668A973094D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A77C171-F849-4FF2-A2CD-668A973094D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A77C171-F849-4FF2-A2CD-668A973094D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A77C171-F849-4FF2-A2CD-668A973094D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E6A3F46-F530-4410-9B90-79FC42E2AD3D}
+	EndGlobalSection
+EndGlobal

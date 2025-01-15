@@ -1,0 +1,43 @@
+C:\Users\tibis\OneDrive\Desktop\jocDeTTTable\JocDeTable\JocDeTable\bin\Debug\JocDeTable.exe.config
+C:\Users\tibis\OneDrive\Desktop\jocDeTTTable\JocDeTable\JocDeTable\bin\Debug\JocDeTable.exe
+C:\Users\tibis\OneDrive\Desktop\jocDeTTTable\JocDeTable\JocDeTable\bin\Debug\JocDeTable.pdb
+C:\Users\tibis\OneDrive\Desktop\jocDeTTTable\JocDeTable\JocDeTable\obj\Debug\JocDeTable.csproj.AssemblyReference.cache
+C:\Users\tibis\OneDrive\Desktop\jocDeTTTable\JocDeTable\JocDeTable\obj\Debug\JocDeTable.csproj.SuggestedBindingRedirects.cache
+C:\Users\tibis\OneDrive\Desktop\jocDeTTTable\JocDeTable\JocDeTable\obj\Debug\JocDeTable.Form1.resources
+C:\Users\tibis\OneDrive\Desktop\jocDeTTTable\JocDeTable\JocDeTable\obj\Debug\JocDeTable.Properties.Resources.resources
+C:\Users\tibis\OneDrive\Desktop\jocDeTTTable\JocDeTable\JocDeTable\obj\Debug\JocDeTable.csproj.GenerateResource.cache
+C:\Users\tibis\OneDrive\Desktop\jocDeTTTable\JocDeTable\JocDeTable\obj\Debug\JocDeTable.csproj.CoreCompileInputs.cache
+C:\Users\tibis\OneDrive\Desktop\jocDeTTTable\JocDeTable\JocDeTable\obj\Debug\JocDeTable.exe
+C:\Users\tibis\OneDrive\Desktop\jocDeTTTable\JocDeTable\JocDeTable\obj\Debug\JocDeTable.pdb
+C:\Users\tibis\Desktop\jocDeTTTable\JocDeTable\JocDeTable\bin\Debug\JocDeTable.exe.config
+C:\Users\tibis\Desktop\jocDeTTTable\JocDeTable\JocDeTable\bin\Debug\JocDeTable.exe
+C:\Users\tibis\Desktop\jocDeTTTable\JocDeTable\JocDeTable\bin\Debug\JocDeTable.pdb
+C:\Users\tibis\Desktop\jocDeTTTable\JocDeTable\JocDeTable\obj\Debug\JocDeTable.csproj.AssemblyReference.cache
+C:\Users\tibis\Desktop\jocDeTTTable\JocDeTable\JocDeTable\obj\Debug\JocDeTable.csproj.SuggestedBindingRedirects.cache
+C:\Users\tibis\Desktop\jocDeTTTable\JocDeTable\JocDeTable\obj\Debug\JocDeTable.Form1.resources
+C:\Users\tibis\Desktop\jocDeTTTable\JocDeTable\JocDeTable\obj\Debug\JocDeTable.Properties.Resources.resources
+C:\Users\tibis\Desktop\jocDeTTTable\JocDeTable\JocDeTable\obj\Debug\JocDeTable.csproj.GenerateResource.cache
+C:\Users\tibis\Desktop\jocDeTTTable\JocDeTable\JocDeTable\obj\Debug\JocDeTable.csproj.CoreCompileInputs.cache
+C:\Users\tibis\Desktop\jocDeTTTable\JocDeTable\JocDeTable\obj\Debug\JocDeTable.exe
+C:\Users\tibis\Desktop\jocDeTTTable\JocDeTable\JocDeTable\obj\Debug\JocDeTable.pdb
+C:\Users\tibis\Desktop\JocDeTable\JocDeTable\JocDeTable\bin\Debug\JocDeTable.exe.config
+C:\Users\tibis\Desktop\JocDeTable\JocDeTable\JocDeTable\bin\Debug\JocDeTable.exe
+C:\Users\tibis\Desktop\JocDeTable\JocDeTable\JocDeTable\bin\Debug\JocDeTable.pdb
+C:\Users\tibis\Desktop\JocDeTable\JocDeTable\JocDeTable\obj\Debug\JocDeTable.csproj.AssemblyReference.cache
+C:\Users\tibis\Desktop\JocDeTable\JocDeTable\JocDeTable\obj\Debug\JocDeTable.csproj.SuggestedBindingRedirects.cache
+C:\Users\tibis\Desktop\JocDeTable\JocDeTable\JocDeTable\obj\Debug\JocDeTable.Form1.resources
+C:\Users\tibis\Desktop\JocDeTable\JocDeTable\JocDeTable\obj\Debug\JocDeTable.Properties.Resources.resources
+C:\Users\tibis\Desktop\JocDeTable\JocDeTable\JocDeTable\obj\Debug\JocDeTable.csproj.GenerateResource.cache
+C:\Users\tibis\Desktop\JocDeTable\JocDeTable\JocDeTable\obj\Debug\JocDeTable.csproj.CoreCompileInputs.cache
+C:\Users\tibis\Desktop\JocDeTable\JocDeTable\JocDeTable\obj\Debug\JocDeTable.exe
+C:\Users\tibis\Desktop\JocDeTable\JocDeTable\JocDeTable\obj\Debug\JocDeTable.pdb
+C:\Users\tibis\Desktop\Facultate\Anul2\PO\Proiect Morariu Anul 2\JocDeTable\JocDeTable\JocDeTable\bin\Debug\JocDeTable.exe.config
+C:\Users\tibis\Desktop\Facultate\Anul2\PO\Proiect Morariu Anul 2\JocDeTable\JocDeTable\JocDeTable\bin\Debug\JocDeTable.exe
+C:\Users\tibis\Desktop\Facultate\Anul2\PO\Proiect Morariu Anul 2\JocDeTable\JocDeTable\JocDeTable\bin\Debug\JocDeTable.pdb
+C:\Users\tibis\Desktop\Facultate\Anul2\PO\Proiect Morariu Anul 2\JocDeTable\JocDeTable\JocDeTable\obj\Debug\JocDeTable.csproj.AssemblyReference.cache
+C:\Users\tibis\Desktop\Facultate\Anul2\PO\Proiect Morariu Anul 2\JocDeTable\JocDeTable\JocDeTable\obj\Debug\JocDeTable.Form1.resources
+C:\Users\tibis\Desktop\Facultate\Anul2\PO\Proiect Morariu Anul 2\JocDeTable\JocDeTable\JocDeTable\obj\Debug\JocDeTable.Properties.Resources.resources
+C:\Users\tibis\Desktop\Facultate\Anul2\PO\Proiect Morariu Anul 2\JocDeTable\JocDeTable\JocDeTable\obj\Debug\JocDeTable.csproj.GenerateResource.cache
+C:\Users\tibis\Desktop\Facultate\Anul2\PO\Proiect Morariu Anul 2\JocDeTable\JocDeTable\JocDeTable\obj\Debug\JocDeTable.csproj.CoreCompileInputs.cache
+C:\Users\tibis\Desktop\Facultate\Anul2\PO\Proiect Morariu Anul 2\JocDeTable\JocDeTable\JocDeTable\obj\Debug\JocDeTable.exe
+C:\Users\tibis\Desktop\Facultate\Anul2\PO\Proiect Morariu Anul 2\JocDeTable\JocDeTable\JocDeTable\obj\Debug\JocDeTable.pdb
